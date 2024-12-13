@@ -1,0 +1,5 @@
+{
+    "author": "{AUTHOR: String}",
+    "package_name": "{PACKAGE NAME: String}",
+    "version": "{MAJOR UPDATE: Integer}.{MINOR UPDATE: Integer}.{HOTFIX: Integer}"
+}
